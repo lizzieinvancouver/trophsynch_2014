@@ -34,7 +34,7 @@ taxer.mutual <- subset(taxer, interaction=="mutualist" |
 ######
 # note:
 # (1) make sure you have a latbi column
-# (2) make sure theses realy are non-trophic interactions!
+# (2) make sure theses really are non-trophic interactions!
 buildintxns.nontrophic <- function(dater, idcol) {
 intxndf.nt <- lapply(unique(dater[[idcol]]), function(uniquesite){
      subby <- subset(dater, dater[[idcol]]==uniquesite)
