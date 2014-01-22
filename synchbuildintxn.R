@@ -5,11 +5,11 @@
 ## Let's go! ##
 
 options(stringsAsFactors=FALSE)
-setwd("/Volumes/MUSIC/UBC/synchrony project/analysis")
+setwd("/Users/Lizzie/Documents/git/R/trophsynch/input")
 
 # get data
 taxer <- read.csv("taxa.csv", header=TRUE)
-obsraw <- read.csv("obs.csv", header=TRUE)
+# obsraw <- read.csv("obs.csv", header=TRUE)
 
 # data clean up (more needed here!)
 taxer$latbi <- paste(taxer$genus, taxer$species)
@@ -24,7 +24,7 @@ taxer.trophic <- subset(taxer, interaction != "mutualist" & interaction != "poll
 
 # interaction != "mutualist" & interaction != "pollination" : trophic! BUT keep statements in because otherwise crash- different coding needed for mutualism
 
-taxer.mutual <- subset(taxer, interaction=="mutualist" & interaction == "pollination")
+taxer.mutual <- subset(taxer, interaction=="mutualist" | interaction == "pollination")
 taxer.comp <- subset(taxer, interaction=="competition")
 
 ######
@@ -97,8 +97,8 @@ names(intxn_trophic)[2]<-"latbi"
 intxn_trophic2<-merge(intxn_trophic, taxer.trophic[,c("latbi","interaction")],by="latbi")
 names(intxn_trophic2)[1]<-"spp1"; names(intxn_trophic2)[3]<-"spp2"
 
-intxn_mut<- buildintxns.nontrophic(taxer.mutual, "studyid")
-intxn_comp<- buildintxns.comp(taxer.comp, "studyid")
+intxn_mut <- buildintxns.nontrophic(taxer.mutual, "studyid")
+intxn_comp <- buildintxns.comp(taxer.comp, "studyid")
 names(intxn_comp)[2]<-"latbi"
 intxn_comp2<-merge(intxn_comp, taxer.comp[,c("latbi","interaction")],by="latbi")
 names(intxn_comp2)[1]<-"spp1"; names(intxn_comp2)[3]<-"spp2"
