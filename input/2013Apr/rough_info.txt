@@ -1,0 +1,4 @@
+From Heather Kharouba (29 April 2013):
+
+Rough.csv are the observational studies and
+rough_taxa.csv is the info about their interactions

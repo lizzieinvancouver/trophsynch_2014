@@ -1,0 +1,354 @@
+studyid,predictunits,predictvalue,genus,species,phenophase,phenounits,phenovalue,site,phenochange,pheno
+HMK004,year,1982,Quercus,spp,final bud flushing,day,123.852,finse,-226.113,end
+HMK004,year,1983,Quercus,spp,final bud flushing,day,110.857,finse,0,end
+HMK004,year,1984,Quercus,spp,final bud flushing,day,117.378,finse,,end
+HMK004,year,1985,Quercus,spp,final bud flushing,day,128.834,finse,,end
+HMK004,year,1986,Quercus,spp,final bud flushing,day,102.481,finse,,end
+HMK004,year,1987,Quercus,spp,final bud flushing,day,131.608,finse,,end
+HMK004,year,1988,Quercus,spp,final bud flushing,day,111.215,finse,,end
+HMK004,year,1982,Quercus,spp,initial bud flushing,day,99.6054,finse,-8.6146,start
+HMK004,year,1983,Quercus,spp,initial bud flushing,day,92.7749,finse,-11.4911,start
+HMK004,year,1984,Quercus,spp,initial bud flushing,day,99.0908,finse,,start
+HMK004,year,1985,Quercus,spp,initial bud flushing,day,107.67,finse,,start
+HMK004,year,1986,Quercus,spp,initial bud flushing,day,92.4126,finse,,start
+HMK004,year,1987,Quercus,spp,initial bud flushing,day,115.786,finse,,start
+HMK004,year,1988,Quercus,spp,initial bud flushing,day,94.9811,finse,,start
+HMK004,year,1982,Tortrix,viridana,initial egg hatch,day,102.261,finse,,start
+HMK004,year,1982,Tortrix,viridana,initial egg hatch,day,108.22,finse,,start
+HMK004,year,1983,Tortrix,viridana,initial egg hatch,day,96.6617,finse,,start
+HMK004,year,1983,Tortrix,viridana,initial egg hatch,day,104.266,finse,,start
+HMK004,year,1984,Tortrix,viridana,initial egg hatch,day,104.007,finse,,start
+HMK004,year,1984,Tortrix,viridana,initial egg hatch,day,107.706,finse,,start
+HMK004,year,1985,Tortrix,viridana,initial egg hatch,day,109.914,finse,,start
+HMK004,year,1985,Tortrix,viridana,initial egg hatch,day,118.957,finse,,start
+HMK004,year,1986,Tortrix,viridana,initial egg hatch,day,96.7122,finse,,start
+HMK004,year,1986,Tortrix,viridana,initial egg hatch,day,99.3834,finse,,start
+HMK004,year,1987,Tortrix,viridana,initial egg hatch,day,114.949,finse,,start
+HMK004,year,1987,Tortrix,viridana,initial egg hatch,day,123.99,finse,,start
+HMK004,year,1988,Tortrix,viridana,initial egg hatch,day,100.514,finse,,start
+HMK004,year,1988,Tortrix,viridana,initial egg hatch,day,105.652,finse,,start
+HMK006,year,1996,Corticeus,parallelus,start of adult activity,day,75,lansing,,start
+HMK006,year,1996,Corticeus,parallelus,start of adult activity,day,138,northern,,start
+HMK006,year,1996,Corticeus,parallelus,start of adult activity,day,103,southwestern,,start
+HMK006,year,1997,Corticeus,parallelus,start of adult activity,day,105,lansing,,start
+HMK006,year,1997,Corticeus,parallelus,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Corticeus,parallelus,start of adult activity,day,156,southwestern,,start
+HMK006,year,1996,Cucujus,clavipes,start of adult activity,day,103,lansing,,start
+HMK006,year,1996,Cucujus,clavipes,start of adult activity,day,NA,northern,,start
+HMK006,year,1996,Cucujus,clavipes,start of adult activity,day,103,southwestern,,start
+HMK006,year,1997,Cucujus,clavipes,start of adult activity,day,164,lansing,,start
+HMK006,year,1997,Cucujus,clavipes,start of adult activity,day,168,northern,,start
+HMK006,year,1997,Cucujus,clavipes,start of adult activity,day,88,southwestern,,start
+HMK006,year,1996,Dendroctonus,valens,start of adult activity,day,NA,lansing,,start
+HMK006,year,1996,Dendroctonus,valens,start of adult activity,day,141,northern,,start
+HMK006,year,1996,Dendroctonus,valens,start of adult activity,day,138,southwestern,,start
+HMK006,year,1997,Dendroctonus,valens,start of adult activity,day,150,lansing,,start
+HMK006,year,1997,Dendroctonus,valens,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Dendroctonus,valens,start of adult activity,day,149,southwestern,,start
+HMK006,year,1996,Dryocetes,autographus,start of adult activity,day,140,lansing,,start
+HMK006,year,1996,Dryocetes,autographus,start of adult activity,day,NA,northern,,start
+HMK006,year,1996,Dryocetes,autographus,start of adult activity,day,NA,southwestern,,start
+HMK006,year,1997,Dryocetes,autographus,start of adult activity,day,NA,lansing,,start
+HMK006,year,1997,Dryocetes,autographus,start of adult activity,day,NA,northern,,start
+HMK006,year,1997,Dryocetes,autographus,start of adult activity,day,156,southwestern,,start
+HMK006,year,1996,Enoclerus,nigripes,start of adult activity,day,NA,lansing,,start
+HMK006,year,1996,Enoclerus,nigripes,start of adult activity,day,137,northern,,start
+HMK006,year,1996,Enoclerus,nigripes,start of adult activity,day,206,southwestern,,start
+HMK006,year,1997,Enoclerus,nigripes,start of adult activity,day,NA,lansing,,start
+HMK006,year,1997,Enoclerus,nigripes,start of adult activity,day,155,northern,,start
+HMK006,year,1997,Enoclerus,nigripes,start of adult activity,day,294,southwestern,,start
+HMK006,year,1996,Gnathotrichus,materiarius,start of adult activity,day,127,lansing,,start
+HMK006,year,1996,Gnathotrichus,materiarius,start of adult activity,day,NA,northern,,start
+HMK006,year,1996,Gnathotrichus,materiarius,start of adult activity,day,137,southwestern,,start
+HMK006,year,1997,Gnathotrichus,materiarius,start of adult activity,day,NA,lansing,,start
+HMK006,year,1997,Gnathotrichus,materiarius,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Gnathotrichus,materiarius,start of adult activity,day,132,southwestern,,start
+HMK006,year,1996,Hylastes,porculus,start of adult activity,day,139,lansing,,start
+HMK006,year,1996,Hylastes,porculus,start of adult activity,day,198,northern,,start
+HMK006,year,1996,Hylastes,porculus,start of adult activity,day,141,southwestern,,start
+HMK006,year,1997,Hylastes,porculus,start of adult activity,day,NA,lansing,,start
+HMK006,year,1997,Hylastes,porculus,start of adult activity,day,155,northern,,start
+HMK006,year,1997,Hylastes,porculus,start of adult activity,day,156,southwestern,,start
+HMK006,year,1996,Hylurgops,rugipennis pinnifex,start of adult activity,day,NA,lansing,,start
+HMK006,year,1996,Hylurgops,rugipennis pinnifex,start of adult activity,day,141,northern,,start
+HMK006,year,1996,Hylurgops,rugipennis pinnifex,start of adult activity,day,137,southwestern,,start
+HMK006,year,1997,Hylurgops,rugipennis pinnifex,start of adult activity,day,125,lansing,,start
+HMK006,year,1997,Hylurgops,rugipennis pinnifex,start of adult activity,day,155,northern,,start
+HMK006,year,1997,Hylurgops,rugipennis pinnifex,start of adult activity,day,127,southwestern,,start
+HMK006,year,1996,Ips,grandicollis,start of adult activity,day,139,lansing,,start
+HMK006,year,1996,Ips,pini,start of adult activity,day,138,lansing,,start
+HMK006,year,1996,Ips,grandicollis,start of adult activity,day,152,northern,,start
+HMK006,year,1996,Ips,pini,start of adult activity,day,134,northern,,start
+HMK006,year,1996,Ips,grandicollis,start of adult activity,day,134,southwestern,,start
+HMK006,year,1996,Ips,pini,start of adult activity,day,134,southwestern,,start
+HMK006,year,1997,Ips,grandicollis,start of adult activity,day,125,lansing,,start
+HMK006,year,1997,Ips,pini,start of adult activity,day,119,lansing,,start
+HMK006,year,1997,Ips,grandicollis,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Ips,pini,start of adult activity,day,133,northern,,start
+HMK006,year,1997,Ips,grandicollis,start of adult activity,day,149,southwestern,,start
+HMK006,year,1997,Ips,pini,start of adult activity,day,127,southwestern,,start
+HMK006,year,1996,Monochamus,spp,start of adult activity,day,NA,lansing,,start
+HMK006,year,1996,Monochamus,spp,start of adult activity,day,190,northern,,start
+HMK006,year,1996,Monochamus,spp,start of adult activity,day,183,southwestern,,start
+HMK006,year,1997,Monochamus,spp,start of adult activity,day,NA,lansing,,start
+HMK006,year,1997,Monochamus,spp,start of adult activity,day,177,northern,,start
+HMK006,year,1997,Monochamus,spp,start of adult activity,day,176,southwestern,,start
+HMK006,year,1996,Orthotomicus,caelatus,start of adult activity,day,139,lansing,,start
+HMK006,year,1996,Orthotomicus,caelatus,start of adult activity,day,141,northern,,start
+HMK006,year,1996,Orthotomicus,caelatus,start of adult activity,day,138,southwestern,,start
+HMK006,year,1997,Orthotomicus,caelatus,start of adult activity,day,150,lansing,,start
+HMK006,year,1997,Orthotomicus,caelatus,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Orthotomicus,caelatus,start of adult activity,day,156,southwestern,,start
+HMK006,year,1996,Pissodes,approximatus,start of adult activity,day,NA,lansing,,start
+HMK006,year,1996,Pissodes,approximatus,start of adult activity,day,134,northern,,start
+HMK006,year,1996,Pissodes,approximatus,start of adult activity,day,103,southwestern,,start
+HMK006,year,1997,Pissodes,approximatus,start of adult activity,day,92,lansing,,start
+HMK006,year,1997,Pissodes,approximatus,start of adult activity,day,164,northern,,start
+HMK006,year,1997,Pissodes,approximatus,start of adult activity,day,94,southwestern,,start
+HMK006,year,1996,Platysoma,cylindrica,start of adult activity,day,139,lansing,,start
+HMK006,year,1996,Platysoma,parallelum,start of adult activity,day,138,lansing,,start
+HMK006,year,1996,Platysoma,cylindrica,start of adult activity,day,141,northern,,start
+HMK006,year,1996,Platysoma,parallelum,start of adult activity,day,141,northern,,start
+HMK006,year,1996,Platysoma,cylindrica,start of adult activity,day,124,southwestern,,start
+HMK006,year,1996,Platysoma,parallelum,start of adult activity,day,124,southwestern,,start
+HMK006,year,1997,Platysoma,cylindrica,start of adult activity,day,150,lansing,,start
+HMK006,year,1997,Platysoma,parallelum,start of adult activity,day,164,lansing,,start
+HMK006,year,1997,Platysoma,cylindrica,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Platysoma,parallelum,start of adult activity,day,154,northern,,start
+HMK006,year,1997,Platysoma,cylindrica,start of adult activity,day,156,southwestern,,start
+HMK006,year,1997,Platysoma,parallelum,start of adult activity,day,156,southwestern,,start
+HMK006,year,1996,Thanasimus,dubius,start of adult activity,day,109,lansing,,start
+HMK006,year,1996,Thanasimus,dubius,start of adult activity,day,137,northern,,start
+HMK006,year,1996,Thanasimus,dubius,start of adult activity,day,176,southwestern,,start
+HMK006,year,1997,Thanasimus,dubius,start of adult activity,day,150,northern,,start
+HMK006,year,1997,Thanasimus,dubius,start of adult activity,day,133,northern,,start
+HMK006,year,1997,Thanasimus,dubius,start of adult activity,day,127,southwestern,,start
+HMK006,year,1996,Tomicus,piniperda,start of adult activity,day,87,lansing,,start
+HMK006,year,1996,Tomicus,piniperda,start of adult activity,day,NA,northern,,start
+HMK006,year,1996,Tomicus,piniperda,start of adult activity,day,90,southwestern,,start
+HMK006,year,1997,Tomicus,piniperda,start of adult activity,day,80,lansing,,start
+HMK006,year,1997,Tomicus,piniperda,start of adult activity,day,NA,northern,,start
+HMK006,year,1997,Tomicus,piniperda,start of adult activity,day,81,southwestern,,start
+HMK007,year,1983,Saxifraga,reflexa,peak flowering,day,144,munson,,peak
+HMK007,year,1983,Saxifraga,tricuspidata,peak flowering,day,159,munson,,peak
+HMK007,year,1985,Saxifraga,reflexa,peak flowering,day,155,munson,,peak
+HMK007,year,1985,Saxifraga,tricuspidata,peak flowering,day,169,munson,,peak
+HMK007,year,1986,Saxifraga,reflexa,peak flowering,day,149,munson,,peak
+HMK007,year,1986,Saxifraga,tricuspidata,peak flowering,day,159,munson,,peak
+HMK007,year,1983,Saxifraga,reflexa,start of flowering,day,133,munson,,start
+HMK007,year,1983,Saxifraga,tricuspidata,start of flowering,day,151,munson,,start
+HMK007,year,1985,Saxifraga,reflexa,start of flowering,day,144,munson,,start
+HMK007,year,1985,Saxifraga,tricuspidata,start of flowering,day,154,munson,,start
+HMK007,year,1986,Saxifraga,reflexa,start of flowering,day,142,munson,,start
+HMK007,year,1986,Saxifraga,tricuspidata,start of flowering,day,153,munson,,start
+HMK008,year,1984,Castilleja,tenuiflora,first flowering date,day,105.7056,finger,,start
+HMK008,year,1985,Castilleja,tenuiflora,first flowering date,day,124.386,finger,,start
+HMK008,year,1986,Castilleja,tenuiflora,first flowering date,day,81.53372,finger,,start
+HMK008,year,1987,Castilleja,tenuiflora,first flowering date,day,110.7054,finger,,start
+HMK008,year,1988,Castilleja,tenuiflora,first flowering date,day,109.9014,finger,,start
+HMK008,year,1989,Castilleja,tenuiflora,first flowering date,day,125.3521,finger,,start
+HMK008,year,1991,Castilleja,tenuiflora,first flowering date,day,110.7233,finger,,start
+HMK008,year,1992,Castilleja,tenuiflora,first flowering date,day,116.1188,finger,,start
+HMK008,year,1993,Castilleja,tenuiflora,first flowering date,day,117.1447,finger,,start
+HMK008,year,1994,Castilleja,tenuiflora,first flowering date,day,87.76914,finger,,start
+HMK008,year,1995,Castilleja,tenuiflora,first flowering date,day,97.9382,finger,,start
+HMK008,year,1997,Castilleja,tenuiflora,first flowering date,day,130.9093,finger,,start
+HMK008,year,1999,Castilleja,tenuiflora,first flowering date,day,143.1043,finger,,start
+HMK008,year,2001,Castilleja,tenuiflora,first flowering date,day,124.7273,finger,,start
+HMK008,year,2003,Castilleja,tenuiflora,first flowering date,day,102.1519,finger,,start
+HMK008,year,2007,Castilleja,tenuiflora,first flowering date,day,114.1644,finger,,start
+HMK008,year,2008,Castilleja,tenuiflora,first flowering date,day,106.7565,finger,,start
+HMK008,year,2009,Castilleja,tenuiflora,first flowering date,day,111.4213,finger,,start
+HMK008,year,2010,Castilleja,tenuiflora,first flowering date,day,109.1358,finger,,start
+HMK008,year,1975,Delphinium,nuttallianum,first flowering date,day,170.8556,rbml,,start
+HMK008,year,1977,Delphinium,nuttallianum,first flowering date,day,156.4171,rbml,,start
+HMK008,year,1979,Delphinium,nuttallianum,first flowering date,day,163.5027,rbml,,start
+HMK008,year,1980,Delphinium,nuttallianum,first flowering date,day,166.0428,rbml,,start
+HMK008,year,1981,Delphinium,nuttallianum,first flowering date,day,151.8075,rbml,,start
+HMK008,year,1982,Delphinium,nuttallianum,first flowering date,day,159.2941,rbml,,start
+HMK008,year,1983,Delphinium,nuttallianum,first flowering date,day,170.9893,rbml,,start
+HMK008,year,1984,Delphinium,nuttallianum,first flowering date,day,169.385,rbml,,start
+HMK008,year,1985,Delphinium,nuttallianum,first flowering date,day,155.8182,rbml,,start
+HMK008,year,1986,Delphinium,nuttallianum,first flowering date,day,151.8075,rbml,,start
+HMK008,year,1987,Delphinium,nuttallianum,first flowering date,day,152.8075,rbml,,start
+HMK008,year,1988,Delphinium,nuttallianum,first flowering date,day,151.738,rbml,,start
+HMK008,year,1989,Delphinium,nuttallianum,first flowering date,day,148.4652,rbml,,start
+HMK008,year,1991,Delphinium,nuttallianum,first flowering date,day,160.8289,rbml,,start
+HMK008,year,1993,Delphinium,nuttallianum,first flowering date,day,169.5882,rbml,,start
+HMK008,year,1995,Delphinium,nuttallianum,first flowering date,day,177.0053,rbml,,start
+HMK008,year,1996,Delphinium,nuttallianum,first flowering date,day,155.8824,rbml,,start
+HMK008,year,1997,Delphinium,nuttallianum,first flowering date,day,153.6791,rbml,,start
+HMK008,year,1998,Delphinium,nuttallianum,first flowering date,day,146.3262,rbml,,start
+HMK008,year,1999,Delphinium,nuttallianum,first flowering date,day,160.0267,rbml,,start
+HMK008,year,2000,Delphinium,nuttallianum,first flowering date,day,150,rbml,,start
+HMK008,year,2001,Delphinium,nuttallianum,first flowering date,day,152.3422,rbml,,start
+HMK008,year,2002,Delphinium,nuttallianum,first flowering date,day,137.5027,rbml,,start
+HMK008,year,2003,Delphinium,nuttallianum,first flowering date,day,150,rbml,,start
+HMK008,year,2004,Delphinium,nuttallianum,first flowering date,day,136.9679,rbml,,start
+HMK008,year,2005,Delphinium,nuttallianum,first flowering date,day,149.8021,rbml,,start
+HMK008,year,2006,Delphinium,nuttallianum,first flowering date,day,141.5134,rbml,,start
+HMK008,year,2007,Delphinium,nuttallianum,first flowering date,day,138.5027,rbml,,start
+HMK008,year,2008,Delphinium,nuttallianum,first flowering date,day,163.9037,rbml,,start
+HMK008,year,2009,Delphinium,nuttallianum,first flowering date,day,147.3957,rbml,,start
+HMK008,year,2010,Delphinium,nuttallianum,first flowering date,day,150.4706,rbml,,start
+HMK008,year,1975,Erythronium,grandiflorum,first flowering date,day,159.6556,rbml,,start
+HMK008,year,1977,Erythronium,grandiflorum,first flowering date,day,156.4232,rbml,,start
+HMK008,year,1979,Erythronium,grandiflorum,first flowering date,day,157.6076,rbml,,start
+HMK008,year,1980,Erythronium,grandiflorum,first flowering date,day,160.4089,rbml,,start
+HMK008,year,1981,Erythronium,grandiflorum,first flowering date,day,139.7202,rbml,,start
+HMK008,year,1983,Erythronium,grandiflorum,first flowering date,day,161.5833,rbml,,start
+HMK008,year,1984,Erythronium,grandiflorum,first flowering date,day,161.1712,rbml,,start
+HMK008,year,1986,Erythronium,grandiflorum,first flowering date,day,149.8429,rbml,,start
+HMK008,year,1987,Erythronium,grandiflorum,first flowering date,day,135.0378,rbml,,start
+HMK008,year,1988,Erythronium,grandiflorum,first flowering date,day,141.1858,rbml,,start
+HMK008,year,1989,Erythronium,grandiflorum,first flowering date,day,139.9067,rbml,,start
+HMK008,year,1991,Erythronium,grandiflorum,first flowering date,day,150.7944,rbml,,start
+HMK008,year,1993,Erythronium,grandiflorum,first flowering date,day,157.8061,rbml,,start
+HMK008,year,1995,Erythronium,grandiflorum,first flowering date,day,169.6281,rbml,,start
+HMK008,year,1996,Erythronium,grandiflorum,first flowering date,day,145.7895,rbml,,start
+HMK008,year,1997,Erythronium,grandiflorum,first flowering date,day,151.3391,rbml,,start
+HMK008,year,1998,Erythronium,grandiflorum,first flowering date,day,141.8244,rbml,,start
+HMK008,year,1999,Erythronium,grandiflorum,first flowering date,day,149.7765,rbml,,start
+HMK008,year,2000,Erythronium,grandiflorum,first flowering date,day,141.3323,rbml,,start
+HMK008,year,2001,Erythronium,grandiflorum,first flowering date,day,139.786,rbml,,start
+HMK008,year,2002,Erythronium,grandiflorum,first flowering date,day,124.6497,rbml,,start
+HMK008,year,2003,Erythronium,grandiflorum,first flowering date,day,143.712,rbml,,start
+HMK008,year,2004,Erythronium,grandiflorum,first flowering date,day,135.2674,rbml,,start
+HMK008,year,2005,Erythronium,grandiflorum,first flowering date,day,145.1012,rbml,,start
+HMK008,year,2006,Erythronium,grandiflorum,first flowering date,day,134.6481,rbml,,start
+HMK008,year,2008,Erythronium,grandiflorum,first flowering date,day,155.1748,rbml,,start
+HMK008,year,2009,Erythronium,grandiflorum,first flowering date,day,136.2264,rbml,,start
+HMK008,year,2010,Erythronium,grandiflorum,first flowering date,day,138.0888,rbml,,start
+HMK008,year,2011,Erythronium,grandiflorum,first flowering date,day,155.3492,rbml,,start
+HMK008,year,1975,Selasphorus,platycercus,first arrival,day,135.0237,rbml,,start
+HMK008,year,1976,Selasphorus,platycercus,first arrival,day,138.4943,rbml,,start
+HMK008,year,1978,Selasphorus,platycercus,first arrival,day,133.9942,rbml,,start
+HMK008,year,1979,Selasphorus,platycercus,first arrival,day,136.4563,rbml,,start
+HMK008,year,1980,Selasphorus,platycercus,first arrival,day,138.321,rbml,,start
+HMK008,year,1981,Selasphorus,platycercus,first arrival,day,133.4288,rbml,,start
+HMK008,year,1982,Selasphorus,platycercus,first arrival,day,135.0248,rbml,,start
+HMK008,year,1983,Selasphorus,platycercus,first arrival,day,147.6623,rbml,,start
+HMK008,year,1984,Selasphorus,platycercus,first arrival,day,77.5384,finger,,start
+HMK008,year,1984,Selasphorus,platycercus,first arrival,day,133.5947,rbml,,start
+HMK008,year,1985,Selasphorus,platycercus,first arrival,day,141.6883,rbml,,start
+HMK008,year,1985,Selasphorus,platycercus,first arrival,day,82.06802,finger,,start
+HMK008,year,1986,Selasphorus,platycercus,first arrival,day,94.0669,finger,,start
+HMK008,year,1986,Selasphorus,platycercus,first arrival,day,140.7407,rbml,,start
+HMK008,year,1987,Selasphorus,platycercus,first arrival,day,104.1018,finger,,start
+HMK008,year,1988,Selasphorus,platycercus,first arrival,day,139.0111,finger,,start
+HMK008,year,1988,Selasphorus,platycercus,first arrival,day,135.5615,rbml,,start
+HMK008,year,1989,Selasphorus,platycercus,first arrival,day,121.7085,finger,,start
+HMK008,year,1989,Selasphorus,platycercus,first arrival,day,127.1896,rbml,,start
+HMK008,year,1990,Selasphorus,platycercus,first arrival,day,75.62156,finger,,start
+HMK008,year,1990,Selasphorus,platycercus,first arrival,day,123.1631,rbml,,start
+HMK008,year,1991,Selasphorus,platycercus,first arrival,day,133.2575,rbml,,start
+HMK008,year,1991,Selasphorus,platycercus,first arrival,day,103.4451,finger,,start
+HMK008,year,1992,Selasphorus,platycercus,first arrival,day,101.8329,finger,,start
+HMK008,year,1992,Selasphorus,platycercus,first arrival,day,132.5773,rbml,,start
+HMK008,year,1993,Selasphorus,platycercus,first arrival,day,113.5057,finger,,start
+HMK008,year,1993,Selasphorus,platycercus,first arrival,day,137.4566,rbml,,start
+HMK008,year,1994,Selasphorus,platycercus,first arrival,day,110.4106,finger,,start
+HMK008,year,1994,Selasphorus,platycercus,first arrival,day,130.0839,rbml,,start
+HMK008,year,1995,Selasphorus,platycercus,first arrival,day,112.2242,finger,,start
+HMK008,year,1995,Selasphorus,platycercus,first arrival,day,133.6174,rbml,,start
+HMK008,year,1996,Selasphorus,platycercus,first arrival,day,131.0961,finger,,start
+HMK008,year,1996,Selasphorus,platycercus,first arrival,day,147.1273,rbml,,start
+HMK008,year,1997,Selasphorus,platycercus,first arrival,day,95.7339,finger,,start
+HMK008,year,1997,Selasphorus,platycercus,first arrival,day,132.464,rbml,,start
+HMK008,year,1998,Selasphorus,platycercus,first arrival,day,138.7463,rbml,,start
+HMK008,year,1998,Selasphorus,platycercus,first arrival,day,129.4315,finger,,start
+HMK008,year,1999,Selasphorus,platycercus,first arrival,day,125.7193,finger,,start
+HMK008,year,1999,Selasphorus,platycercus,first arrival,day,142.5471,rbml,,start
+HMK008,year,2000,Selasphorus,platycercus,first arrival,day,107.125,finger,,start
+HMK008,year,2000,Selasphorus,platycercus,first arrival,day,125.4019,rbml,,start
+HMK008,year,2001,Selasphorus,platycercus,first arrival,day,128.0064,rbml,,start
+HMK008,year,2001,Selasphorus,platycercus,first arrival,day,62.4637,finger,,start
+HMK008,year,2002,Selasphorus,platycercus,first arrival,day,125.7198,rbml,,start
+HMK008,year,2003,Selasphorus,platycercus,first arrival,day,130.4599,rbml,,start
+HMK008,year,2003,Selasphorus,platycercus,first arrival,day,122.0984,finger,,start
+HMK008,year,2004,Selasphorus,platycercus,first arrival,day,124.6918,rbml,,start
+HMK008,year,2005,Selasphorus,platycercus,first arrival,day,129.1695,rbml,,start
+HMK008,year,2006,Selasphorus,platycercus,first arrival,day,136.6099,finger,,start
+HMK008,year,2006,Selasphorus,platycercus,first arrival,day,137.0587,rbml,,start
+HMK008,year,2007,Selasphorus,platycercus,first arrival,day,129.7502,rbml,,start
+HMK008,year,2007,Selasphorus,platycercus,first arrival,day,93.8142,finger,,start
+HMK008,year,2008,Selasphorus,platycercus,first arrival,day,113.8995,finger,,start
+HMK008,year,2008,Selasphorus,platycercus,first arrival,day,131.3453,rbml,,start
+HMK008,year,2009,Selasphorus,platycercus,first arrival,day,84.46734,finger,,start
+HMK008,year,2009,Selasphorus,platycercus,first arrival,day,129.9323,rbml,,start
+HMK008,year,2010,Selasphorus,platycercus,first arrival,day,104.6873,finger,,start
+HMK008,year,2010,Selasphorus,platycercus,first arrival,day,134.7425,rbml,,start
+HMK008,year,2011,Selasphorus,platycercus,first arrival,day,140.2216,rbml,,start
+HMK009,site,Dension,Hydrophyllum,macrophyllum,last flowering date,day,158.457,denison,,end
+HMK009,site,Three Creeks,Hydrophyllum,macrophyllum,last flowering date,day,159.334,creeks,,end
+HMK009,site,Denison,Hydrophyllum,macrophyllum,first flowering date,day,142.116,denison,,start
+HMK009,site,Denison,Hydrophyllum,macrophyllum,first flowering date,day,142.116,denison,,start
+HMK009,site,Three Creeks,Hydrophyllum,macrophyllum,first flowering date,day,145.432,creeks,,start
+HMK009,site,Three Creeks,Hydrophyllum,macrophyllum,first flowering date,day,145.432,creeks,,start
+HMK009,site,Dension,Lonicera,maackii,last flowering date,day,163.792,denison,,end
+HMK009,site,Three Creeks,Lonicera,maackii,last flowering date,day,147.836,creeks,,end
+HMK009,site,Denison,Lonicera,maackii,first flowering date,day,142.328,denison,,start
+HMK009,site,Three Creeks,Lonicera,maackii,first flowering date,day,127.108,creeks,,start
+HMK010,year,1998,Chlorochytrium,spp.,peak of activity,day,135,sooke,,peak
+HMK010,year,1998,Chlorochytrium,spp.,peak of activity,day,105,sooke,,peak
+HMK010,year,1998,Chlorochytrium,spp.,start of activity,day,74,sooke,,start
+HMK010,year,1998,Chlorochytrium,spp.,start of activity,day,74,sooke,,start
+HMK010,year,1997,Codiolum,spp.,peak of activity,day,166,sooke,,peak
+HMK010,year,1998,Codiolum,spp.,peak of activity,day,166,sooke,,peak
+HMK010,year,1998,Codiolum,spp.,start of activity,day,105,sooke,,start
+HMK010,year,1997,Mastocarpus,papillatus,peak of activity,day,227,sooke,,peak
+HMK010,year,1998,Mastocarpus,papillatus,peak of activity,day,227,sooke,,peak
+HMK010,year,1998,Mastocarpus,papillatus,start of activity,day,74,sooke,,start
+HMK010,year,1997,Mazzaella,splendens,peak of activity,day,135,sooke,,peak
+HMK010,year,1997,Mazzaella,splendens,peak of activity,day,135,sooke,,peak
+HMK010,year,1997,Mazzaella,splendens,start of activity,day,74,sooke,,start
+HMK010,year,1997,Mazzaella,splendens,start of activity,day,15,sooke,,start
+HMK011,year,1996,Epirrita,autumnata,biomass peak date,day,89.4596,oulu,,peak
+HMK011,year,1997,Epirrita,autumnata,biomass peak date,day,101.649,oulu,,peak
+HMK011,year,1998,Epirrita,autumnata,biomass peak date,day,87.8317,oulu,,peak
+HMK011,year,1999,Epirrita,autumnata,biomass peak date,day,78.9526,oulu,,peak
+HMK011,year,2000,Epirrita,autumnata,biomass peak date,day,75.9974,oulu,,peak
+HMK011,year,2001,Epirrita,autumnata,biomass peak date,day,91.1512,oulu,,peak
+HMK011,year,2002,Epirrita,autumnata,biomass peak date,day,74.3688,oulu,,peak
+HMK011,year,2003,Epirrita,autumnata,biomass peak date,day,79.6461,oulu,,peak
+HMK011,year,2004,Epirrita,autumnata,biomass peak date,day,71.4261,oulu,,peak
+HMK011,year,2005,Epirrita,autumnata,biomass peak date,day,85.9202,oulu,,peak
+HMK011,year,2006,Epirrita,autumnata,biomass peak date,day,77.3689,oulu,,peak
+HMK011,year,2007,Epirrita,autumnata,biomass peak date,day,76.391,oulu,,peak
+HMK011,year,2008,Epirrita,autumnata,biomass peak date,day,81.6669,oulu,,peak
+HMK011,year,2009,Epirrita,autumnata,biomass peak date,day,79.7021,oulu,,peak
+HMK011,year,1975,Poecile,montanus,median egg laying date,day,41.8617,oulu,,peak
+HMK011,year,1976,Poecile,montanus,median egg laying date,day,46.4798,oulu,,peak
+HMK011,year,1977,Poecile,montanus,median egg laying date,day,48.7928,oulu,,peak
+HMK011,year,1978,Poecile,montanus,median egg laying date,day,49.7895,oulu,,peak
+HMK011,year,1979,Poecile,montanus,median egg laying date,day,44.861,oulu,,peak
+HMK011,year,1980,Poecile,montanus,median egg laying date,day,40.2604,oulu,,peak
+HMK011,year,1981,Poecile,montanus,median egg laying date,day,46.5253,oulu,,peak
+HMK011,year,1982,Poecile,montanus,median egg laying date,day,45.8767,oulu,,peak
+HMK011,year,1983,Poecile,montanus,median egg laying date,day,39.9592,oulu,,peak
+HMK011,year,1984,Poecile,montanus,median egg laying date,day,38.3208,oulu,,peak
+HMK011,year,1985,Poecile,montanus,median egg laying date,day,46.8903,oulu,,peak
+HMK011,year,1986,Poecile,montanus,median egg laying date,day,40.3157,oulu,,peak
+HMK011,year,1987,Poecile,montanus,median egg laying date,day,44.2748,oulu,,peak
+HMK011,year,1988,Poecile,montanus,median egg laying date,day,47.906,oulu,,peak
+HMK011,year,1989,Poecile,montanus,median egg laying date,day,34.4171,oulu,,peak
+HMK011,year,1990,Poecile,montanus,median egg laying date,day,37.3899,oulu,,peak
+HMK011,year,1991,Poecile,montanus,median egg laying date,day,46.6164,oulu,,peak
+HMK011,year,1992,Poecile,montanus,median egg laying date,day,47.6125,oulu,,peak
+HMK011,year,1993,Poecile,montanus,median egg laying date,day,40.3802,oulu,,peak
+HMK011,year,1994,Poecile,montanus,median egg laying date,day,42.6945,oulu,,peak
+HMK011,year,1995,Poecile,montanus,median egg laying date,day,48.3003,oulu,,peak
+HMK011,year,1996,Poecile,montanus,median egg laying date,day,39.7477,oulu,,peak
+HMK011,year,1997,Poecile,montanus,median egg laying date,day,48.6457,oulu,,peak
+HMK011,year,1998,Poecile,montanus,median egg laying date,day,44.3756,oulu,,peak
+HMK011,year,1999,Poecile,montanus,median egg laying date,day,39.4458,oulu,,peak
+HMK011,year,2000,Poecile,montanus,median egg laying date,day,41.758,oulu,,peak
+HMK011,year,2001,Poecile,montanus,median egg laying date,day,42.1005,oulu,,peak
+HMK011,year,2002,Poecile,montanus,median egg laying date,day,36.8414,oulu,,peak
+HMK011,year,2003,Poecile,montanus,median egg laying date,day,45.0817,oulu,,peak
+HMK011,year,2004,Poecile,montanus,median egg laying date,day,38.8321,oulu,,peak
+HMK011,year,2005,Poecile,montanus,median egg laying date,day,40.4894,oulu,,peak
+HMK011,year,2006,Poecile,montanus,median egg laying date,day,38.8518,oulu,,peak
+HMK011,year,2007,Poecile,montanus,median egg laying date,day,40.5084,oulu,,peak
+HMK011,year,2008,Poecile,montanus,median egg laying date,day,39.859,oulu,,peak
+HMK011,year,2009,Poecile,montanus,median egg laying date,day,42.5005,oulu,,peak
